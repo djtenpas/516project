@@ -1,6 +1,3 @@
----
-layout: default
----
 
 [Link to Analysis Repo](https://github.com/djtenpas/finalprojectanalysis)
 
@@ -35,10 +32,13 @@ The 5 class concepts I am applying to this project are:
 4. Supervised Machine Learning
 5. Data Imputation
 
+***
 
 # Project Workflow
 
 ![ProjectWorkflow](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+
+***
 
 # Project Outputs
 
@@ -54,7 +54,7 @@ Here are a couple examples of the visualizations generated to help the group und
 ![KMeans Confidence Matrix](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/KMeansConfMatrix.png)
 
 **Random Forest Model Predictions vs. Actual Measurements**
-![Random Forest vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+![Random Forest vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/RFvsActualPlot.png)
 
 **Gradient Boosted Machine Learning Model Predictions vs. Actual Measurements**
 ![Boosted Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
