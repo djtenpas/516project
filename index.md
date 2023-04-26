@@ -57,7 +57,7 @@ Here are a couple examples of the visualizations generated to help the group und
 ![Random Forest vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/RFvsActualPlot.png)
 
 **Gradient Boosted Machine Learning Model Predictions vs. Actual Measurements**
-![Boosted Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+![Boosted Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/BoostedvsActualPlot.png)
 
 **Random Forest Machine Learning Model Trained on Imputed Data Performance**
 ![Imputed Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
