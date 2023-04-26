@@ -42,5 +42,23 @@ The 5 class concepts I am applying to this project are:
 
 # Project Outputs
 
-Upload Plots to raw images in analysis repo and display them here
+Here are a couple examples of the visualizations generated to help the group understand what data they have, how much of it they have, and where it is.
+
+**Stacked Bar Plot**
+![Stacked Bar Plot](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/stackedbar0.png)
+
+**Array of Bar Plots**
+![Array of Bar Plots](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/subbar0.png)
+
+**KMeans Confidence Matrix**
+![KMeans Confidence Matrix](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/KMeansConfMatrix.png)
+
+**Random Forest Model Predictions vs. Actual Measurements**
+![Random Forest vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+
+**Gradient Boosted Machine Learning Model Predictions vs. Actual Measurements**
+![Boosted Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+
+**Random Forest Machine Learning Model Trained on Imputed Data Performance**
+![Imputed Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
 
