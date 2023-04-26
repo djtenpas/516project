@@ -2,7 +2,9 @@
 layout: default
 ---
 
-[Link to Analysis Repo](https://github.com/djtenpas/finalprojectanalysis).
+[Link to Analysis Repo](https://github.com/djtenpas/finalprojectanalysis)
+
+[Link to Analysis Jupyter Notebook](https://nbviewer.org/github/djtenpas/finalprojectanalysis/blob/main/516project/Final%20Project%20Jupyter%20Notebook.ipynb)
 
 
 # Project Description
@@ -37,4 +39,8 @@ The 5 class concepts I am applying to this project are:
 # Project Workflow
 
 ![ProjectWorkflow](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+
+# Project Outputs
+
+Upload Plots to raw images in analysis repo and display them here
 
