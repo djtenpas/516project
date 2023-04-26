@@ -45,20 +45,30 @@ The 5 class concepts I am applying to this project are:
 Here are a couple examples of the visualizations generated to help the group understand what data they have, how much of it they have, and where it is.
 
 **Stacked Bar Plot**
+
 ![Stacked Bar Plot](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/stackedbar0.png)
 
 **Array of Bar Plots**
+
 ![Array of Bar Plots](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/subbar0.png)
 
+Here is a confidence matrix for the unsupervised machine learning model, KMeansClustering. As you can see, it was not very good at distinguishing between the two, but I think that is good! It is good to know manmade things along the river have not altered it to such a state that this model can differentiate between upstream and downstream data.
+
 **KMeans Confidence Matrix**
+
 ![KMeans Confidence Matrix](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/KMeansConfMatrix.png)
 
+Here are some plots of the supervised machine learning models vs. the actual measurements. As you can see, the model does a decent job at detecting when DO is going to change. All models here had an accuracy of ~90%.
+
 **Random Forest Model Predictions vs. Actual Measurements**
+
 ![Random Forest vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/RFvsActualPlot.png)
 
 **Gradient Boosted Machine Learning Model Predictions vs. Actual Measurements**
+
 ![Boosted Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/BoostedvsActualPlot.png)
 
 **Random Forest Machine Learning Model Trained on Imputed Data Performance**
-![Imputed Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+
+![Imputed Model vs. Actual](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ImputedModelvsActualPlot.png)
 
