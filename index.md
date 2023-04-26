@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to Analysis Repo](https://github.com/djtenpas/finalprojectanalysis).
 
 There should be whitespace between paragraphs.
 
