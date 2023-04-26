@@ -38,6 +38,12 @@ The 5 class concepts I am applying to this project are:
 4. Supervised Machine Learning
 5. Data Imputation
 
+
+# Project Workflow
+
+![ProjectWorkflow](https://github.com/djtenpas/finalprojectanalysis/blob/main/rawimages/ProjectWorkflow.png)
+
+
 ## Header 2
 
 > This is a blockquote following a header.
