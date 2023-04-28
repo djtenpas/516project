@@ -13,7 +13,7 @@ Because I started attending ISU in January, I have not collected enough data to 
 One of the main problems my advisor described to me when she gave me this data was that the research group is struggling to figure out what data they have and what they can do with it. Therefore my goals for this project are:
 
 * Wrangling the data and creating helpful visuals so that the gruop can understand **how much** data they have and **where** their data is located.
-* Demonstring concepts learned in this class to show what kind of analyses could be done
+* Demonstrate concepts learned in this class to show what kind of analyses could be done
 
 ## Research Questions
 
