@@ -1,7 +1,7 @@
 
 [Link to Analysis Repo](https://github.com/djtenpas/finalprojectanalysis)
 
-[Link to Analysis Jupyter Notebook](https://nbviewer.org/github/djtenpas/finalprojectanalysis/blob/main/516project/Final%20Project%20Jupyter%20Notebook.ipynb)
+[Link to Analysis Jupyter Notebook](https://nbviewer.org/github/djtenpas/finalprojectanalysis/blob/main/516project/Published%20Analysis%20Notebook.ipynb)
 
 
 # Project Description
