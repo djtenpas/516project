@@ -36,7 +36,7 @@ The 5 class concepts I am applying to this project are:
 
 # Project Workflow
 
-![ProjectWorkflow](/516project/assets/img/ProjectWorkflow.png)
+![ProjectWorkflow](assets/img/ProjectWorkflow.png)
 
 ***
 
@@ -66,7 +66,7 @@ Here are some plots of the supervised machine learning models vs. the actual mea
 
 **Gradient Boosted Machine Learning Model Predictions vs. Actual Measurements**
 
-![Boosted Model vs. Actual](assets/img/BoostedvsActualPlot.png)
+![Boosted Model vs. Actual](assets/img/BoostedvsActual.png)
 
 **Random Forest Machine Learning Model Trained on Imputed Data Performance**
 
