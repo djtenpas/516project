@@ -46,29 +46,29 @@ Here are a couple examples of the visualizations generated to help the group und
 
 **Stacked Bar Plot**
 
-![Stacked Bar Plot](/516project/assets/img/stackedbar0.png)
+![Stacked Bar Plot](assets/img/stackedbar0.png)
 
 **Array of Bar Plots**
 
-![Array of Bar Plots](/516project/assets/img/subbar0.png)
+![Array of Bar Plots](assets/img/subbar0.png)
 
 Here is a confidence matrix for the unsupervised machine learning model, KMeansClustering. As you can see, it was not very good at distinguishing between the two, but I think that is good! It is good to know manmade things along the river have not altered it to such a state that this model can differentiate between upstream and downstream data.
 
 **KMeans Confidence Matrix**
 
-![KMeans Confidence Matrix](/516project/assets/img/KMeansConfMatrixv.2.png)
+![KMeans Confidence Matrix](assets/img/KMeansConfMatrixv.2.png)
 
 Here are some plots of the supervised machine learning models vs. the actual measurements. As you can see, the model does a decent job at detecting when DO is going to change. All models here had an accuracy of ~90%.
 
 **Random Forest Model Predictions vs. Actual Measurements**
 
-![Random Forest vs. Actual](/516project/assets/img/RFvsActualPlot.png)
+![Random Forest vs. Actual](assets/img/RFvsActualPlot.png)
 
 **Gradient Boosted Machine Learning Model Predictions vs. Actual Measurements**
 
-![Boosted Model vs. Actual](/516project/assets/img/BoostedvsActualPlot.png)
+![Boosted Model vs. Actual](assets/img/BoostedvsActualPlot.png)
 
 **Random Forest Machine Learning Model Trained on Imputed Data Performance**
 
-![Imputed Model vs. Actual](/516project/assets/img/ImputedModelvsActualPlot.png)
+![Imputed Model vs. Actual](assets/img/ImputedModelvsActualPlot.png)
 
