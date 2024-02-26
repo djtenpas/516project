@@ -7,7 +7,7 @@
 
 # Project Description
 
-Because I started attending ISU in January, I have not collected enough data to use my own project data. This data comes from my advisor, Dr. Kaoru Ikuma, but it does not come from a research group that I am involved in. The data used in this project is water quality data sampled from a variety of locations along the Des Moines and Racoon River.
+Because I started attending ISU in January 2023 (the beginning of the seester for this class), I have not collected enough data to use my own project data. This data comes from my advisor, Dr. Kaoru Ikuma, but it does not come from a research group that I am involved in. The data used in this project is water quality data sampled from a variety of locations along the Des Moines and Racoon River.
 
 ## Project Goals
 
